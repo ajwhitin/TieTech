@@ -13,6 +13,7 @@ TieTech is a device that is used to aid in the teaching and assessment of health
 - Real time data conversion
 
 **Getting Started and Usage**
+
 To run via MATLAB:
 1. download the TieTech_A_With_Threshold_Complete.mlapp
 2. instal arduino MATLAB Support Package for Arduino Hardware
