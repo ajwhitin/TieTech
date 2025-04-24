@@ -5,7 +5,7 @@
 
 **About the Project**
 
-TieTech is a device that is used to aid in the teaching and assessment of health care providers and students who use surgical knot tying. This device provides real time tension display and quantitative data! The device is control via a standalone user interface designed in MATLAB App designer. Its key features include: 
+TieTech is a device that is used to aid in the teaching and assessment of health care providers and students who use surgical knot tying. This device provides real time tension display and quantitative data! The device is control via a user interface designed in MATLAB App designer. Its key features include: 
 - Start/Stop button
 - Export/save button
 - Balance button
@@ -13,9 +13,6 @@ TieTech is a device that is used to aid in the teaching and assessment of health
 - Real time data conversion
 
 **Getting Started and Usage**
-
-There are two options for running the application. You can run it as a standalone application or run it via MATLAB.
-
 To run via MATLAB:
 1. download the TieTech_A_With_Threshold_Complete.mlapp
 2. instal arduino MATLAB Support Package for Arduino Hardware
@@ -26,9 +23,12 @@ To run via MATLAB:
 7. Collect data and then click stop
 8.Press export button to save data
 
+**Future Updates**
 
-To run via Standalone Application:
-INFORMATION TO BE ADDED SOON
+The user inteface is currently being developed into a standalone application that would be able to be used without the operating computure needing MATLAB. Check back soon for information on how to access this application.
+
+
+
 
 
 
