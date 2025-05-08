@@ -17,9 +17,11 @@ TieTech is a device that is used to aid in the teaching and assessment of health
 To run via MATLAB:
 1. download the TieTech_A_Final_Draft.mlapp
 2. instal arduino MATLAB Support Package for Arduino Hardware
-3. Open up TieTech_A_Final_Draft.mlapp in MATLAB app designer
-4. Plug in arduino Uno into computer
-5. Press green start arrow
+   - Download MATLAB: IU(https://www.mathworks.com/academia/tah-portal/indiana-university-1140465.html), PU(https://www.mathworks.com/academia/tah-portal/purdue-university-31484706.html), General(https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html),
+   - MATLAB Support Package for Arduino Hardware (https://www.mathworks.com/hardware-support/arduino.html)
+4. Open up TieTech_A_Final_Draft.mlapp in MATLAB app designer
+5. Plug in arduino Uno into computer
+6. Press green start arrow
 6.Once UI appears enter the date, desired file name, click balance, and then click start
 7. Collect data and then click stop
 8.Press export button to save data
